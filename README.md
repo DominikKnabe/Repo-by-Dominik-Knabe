@@ -1,7 +1,10 @@
 This repository contains Projects during my time as a Master's student in Geoinformation and Cartographie
 
-The repository contains:  
+*The repository contains:* 
+
 **Animation_Seestadt:** Visualization of the construction project of Vienna’s Seestadt Aspern. The animations were created in Blender  
-**FME_Photogrammetrische_AUswertung:** Automated verification of digital roof edge data with FME   
+**FME_Photogrammetrische_Auswertung:** Automated verification of digital roof edge data with FME   
 **Classification_Storms_Knabe.ipynb:** Automated classification of extreme weather events using "Random Forest Classification" and subsequent spatial analysis in Python  
+**RemoteSensing_WaterLevelChanges_LakeNeusiedl.pdf:** Feature classification of remote sensing data with subsequent analysis of water level changes in Lake Neusiedl using ArcGIS Pro  
+
 
